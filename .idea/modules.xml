@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/odoo_skillswap.iml" filepath="$PROJECT_DIR$/.idea/odoo_skillswap.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Odoo-SkillSwap.iml" filepath="$PROJECT_DIR$/.idea/Odoo-SkillSwap.iml" />
+>>>>>>> 2ee3f5977fb27e86be338d3af3708376aeaf5f3f
     </modules>
   </component>
 </project>
