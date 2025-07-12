@@ -1,3 +1,11 @@
+# Team Member
+
+Ayush dubey 
+Abhinav Dwivedi
+Aayush dubey
+Pragnesh dubey
+
+---
 # Odoo-SkillSwap
 
 Odoo-SkillSwap is a platform that connects users based on skills they can offer and skills they want to learn. The core idea is to facilitate skill exchange, allowing users to request and collaborate with others for mutual learning and growth.
